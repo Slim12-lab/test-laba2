@@ -1,8 +1,8 @@
 [![Coverage Status](https://coveralls.io/repos/github/Slim12-lab/test-laba2/badge.svg?branch=main)](https://coveralls.io/github/Slim12-lab/test-laba2?branch=main)
 [![CI/CD GitHub Actions](https://github.com/Slim12-lab/test-laba2/actions/workflows/test_action.yml/badge.svg)](https://github.com/Slim12-lab/test-laba2/actions/workflows/test_action.yml)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=Slim12-lab_test-laba2&metric=alert_status)](https://sonarcloud.io/dashboard?id=Slim12-lab_test-laba2&metric=alert_status)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Slim12-lab_test-laba2&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Slim12-lab_test-laba2&metric=bugs)
-[![Code smells](https://sonarcloud.io/api/project_badges/measure?project=Slim12-lab_test-laba2&metric=code_smells)](https://sonarcloud.io/dashboard?id=Slim12-lab_test-laba&metric=code_smells)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Slim12-lab_test-laba2&metric=bugs)](https://sonarcloud.io/project/issues?resolved=false&types=BUG&sinceLeakPeriod=true&id=Slim12-lab_test-laba2)
+[![Code smells](https://sonarcloud.io/api/project_badges/measure?project=Slim12-lab_test-laba2&metric=code_smells)](https://sonarcloud.io/project/issues?resolved=false&types=CODE_SMELL&sinceLeakPeriod=true&id=Slim12-lab_test-laba2)
 # План тестирования: 
  
 # Аттестационное тестирование
