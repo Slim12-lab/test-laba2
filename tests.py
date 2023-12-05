@@ -68,3 +68,6 @@ class TestPlayer(unittest.TestCase):
 
     def test_add_income(self):
         self.assertEqual(self.player.add_income(1), 2)
+
+if __name__ == "__main__":  # pragma: no cover
+    unittest.main()
