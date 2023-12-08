@@ -2,7 +2,7 @@
 import re
 from clicker import Game, Building, Player
 
-if __name__ == '__main__':
+if __name__ == '__main__': #pragma: no cover
     game = Game()
     print("Игра \"Миллиардер\"\nКоманды:\n1. Баланс, доход и недвижимость: stat\n2. Магазин: store\n3. Работать: work\n4. Команды: help\n5. Выйти: quit")
     while True:
