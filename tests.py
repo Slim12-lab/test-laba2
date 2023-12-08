@@ -1,4 +1,4 @@
-from main import Game, Building, Player
+from clicker import Game, Building, Player
 import unittest
 
 class TestGame(unittest.TestCase):
@@ -69,5 +69,5 @@ class TestPlayer(unittest.TestCase):
     def test_add_income(self):
         self.assertEqual(self.player.add_income(1), 2) 
 
-if __name__ == "__main__":  # pragma: no cover
+if __name__ == "__main__": 
     unittest.main()
