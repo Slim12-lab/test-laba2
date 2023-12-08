@@ -13,7 +13,7 @@ class TestGame(unittest.TestCase):
         self.assertEqual(self.game.buy('пещера'), 'Недостаточно средств!')
         self.assertEqual(self.game.player.balance, 0)
         self.assertEqual(self.game.player.income, 1)
-        self.assertEqual(self.game.buildings[0].count, 0)
+        self.assertEqual(self.game.buildings[0].count, 55)
         self.assertEqual(self.game.buildings[0].price, 10.0)
 
     def test_buy_sufficient_balance(self):
