@@ -118,4 +118,3 @@ if __name__ == '__main__':  # pragma: no cover
         else:
             print("Вы ввели некорректную команду! Попробуйте ещё раз.")
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
